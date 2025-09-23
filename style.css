@@ -433,7 +433,7 @@ body {
         .team-images-section {
       display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 10px;
   align-content: flex-end;
   width: 100%;
   justify-content: end;
@@ -441,11 +441,11 @@ body {
         }
 
       .team-card{
-        width: 250px;
+        width: 200px;
       }
       .team-card img{
-        width: 250px;
-        height: 350px;
+        width: 200px;
+        height: 300px;
         object-fit: cover;
       }
        .team-card p{
